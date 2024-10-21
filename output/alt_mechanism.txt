@@ -1,0 +1,4 @@
+Highest bidder wins with bid: 150
+Amount paid (second-highest bid): 100
+
+Total Revenue under Alternative Mechanism: 100

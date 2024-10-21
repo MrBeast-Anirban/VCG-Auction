@@ -1,0 +1,8 @@
+Separate bidders win top banner and sidebar
+Winning bid for top banner: 100
+Winning bid for sidebar: 90
+Total VCG Revenue: 165
+Winning Bids Information:
+Top banner won with bid: 100
+Sidebar won with bid: 90
+
